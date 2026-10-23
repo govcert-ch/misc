@@ -119,6 +119,8 @@
 .jse
 .lnk
 .msi
+.msix
+.msixbundle
 .msp
 .mst
 .ocx
